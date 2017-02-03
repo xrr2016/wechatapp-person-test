@@ -5,8 +5,8 @@
   ],
   "window":{
     "backgroundTextStyle":"blod",
-    "navigationBarBackgroundColor": "#f4f4f4",
+    "navigationBarBackgroundColor": "#34495E",
     "navigationBarTitleText": "个性测试",
-    "navigationBarTextStyle":"gray"
+    "navigationBarTextStyle":"#f4f4f4"
   }
 }
