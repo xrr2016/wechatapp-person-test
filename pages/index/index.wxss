@@ -1,6 +1,18 @@
 /**index.wxss**/
+.description{
+  width: 80%;
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, .2);
+  /*text-align: center;*/
+  text-indent: 2em;
+  color: #5DA0A2;
+  padding: 20px;
+  margin-top: 120rpx;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
 .start-btn{
-  background-color: #AACFD0;
   color:aliceblue;
   z-index: 100;
+  margin: 120rpx auto;
+  background-color: #AACFD0;
 }
