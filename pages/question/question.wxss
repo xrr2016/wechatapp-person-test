@@ -1,0 +1,29 @@
+button{
+    width: 40%;
+    font-weight: bold;
+}
+.question{
+    width: 100vw;
+    height: 500rpx;
+    padding: 20px;
+    text-align: left;
+    font-size: 18px;
+    text-indent: 2em;
+    margin-top: 100rpx;
+    word-wrap:normal;
+    background-color: greenyellow;
+}
+.button-group{
+    width: 100vw;
+    padding: 20rpx;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 180rpx;
+}
+.button-a{
+    background-color: bisque;
+}
+.button-a{
+    background-color:darkgoldenrod;
+}

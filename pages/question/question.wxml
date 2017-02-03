@@ -1,1 +1,7 @@
-<view>question</view>
+<view class="container">
+    <text class="question">questionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestionquestion</text>
+    <view class="button-group">
+        <button class="button-a">A</button>
+        <button class="button-b">B</button>
+    </view>
+</view>

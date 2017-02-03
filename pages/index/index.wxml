@@ -3,5 +3,5 @@
   <text class="description">
   回答若干个问题,看看你是动漫哪个人物.
   </text>
-  <button class="start-btn">开始测试</button>
+  <button class="start-btn" bindtap="startTest">开始测试</button>
 </view>

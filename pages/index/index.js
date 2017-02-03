@@ -5,9 +5,11 @@ Page({
   data: {
   },
   //事件处理函数
-  bindViewTap: function() {
+  startTest: function() {
     wx.navigateTo({
+      url:"../question/question"
     })
+    console.log(111)
   },
   onLoad: function () {
   }
